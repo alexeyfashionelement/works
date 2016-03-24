@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'BanderaProMedium';
+  src: url('BanderaProMedium.eot?#iefix') format('embedded-opentype'),  url('BanderaProMedium.otf')  format('opentype'),
+	     url('BanderaProMedium.woff') format('woff'), url('BanderaProMedium.ttf')  format('truetype'), url('BanderaProMedium.svg#BanderaProMedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
